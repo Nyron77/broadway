@@ -42,4 +42,9 @@ p {
 .footer {
   background-color: dimgray;
   text-align: left;
+  color: white;
+  font-size: 11px;
+}
+.footerlinks {
+  font-size: 18px;
 }
